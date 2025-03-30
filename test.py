@@ -7,8 +7,8 @@ username_part = email[:email.index("@")]
 domain_name = email[email.index("@")+1:]
 
 
-outpu = (f"Your user name is '{username_part}' and your domain is '{domain_name}'")
+output = (f"Your user name is '{username_part}' and your domain is '{domain_name}'")
 
 
 #genrating the output
-print(output)
+print(outpu)
