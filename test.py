@@ -1,5 +1,5 @@
 #user input
-email = input("Please enter your email:").strip()
+email = input("Please enter your email:").trip()
 
 
 #definig username and domain parts
@@ -11,4 +11,4 @@ output = (f"Your user name is '{username_part}' and your domain is '{domain_name
 
 
 #genrating the output
-print(outpu)
+print(output)
